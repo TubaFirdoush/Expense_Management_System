@@ -17,8 +17,8 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/TubaFirdoush/Expense_Management_System.git]
-   cd expense-management-system
+   git clone https://github.com/TubaFirdoush/Expense_Management_System.git
+   cd Expense_Management_System
    ```
 1. **Install dependencies:**:   
    ```commandline
